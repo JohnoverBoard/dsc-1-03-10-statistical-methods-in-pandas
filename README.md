@@ -10,7 +10,7 @@ In this lesson you'll learn how to use some of the key summary statistics method
 You will be able to:
 
 * Understand and use the `df.describe()` and `df.info()` summary statistics methods
-* Use built-in Pandas methods for calculating summary statistics (`.mean()`, `.std()`, `.count()`, `.sum()`, `.mean()`, `.median()`, `.std()`, `.var()` and `.quantile()`)
+* Use built-in Pandas methods for calculating summary statistics (`.mean()`, `.std()`, `.count()`, `.sum()`, `.mode()`, `.median()`, `.std()`, `.var()` and `.quantile()`)
 * Apply a function to every element in a Series or DataFrame using `s.apply()` and `df.applymap()`
 
 
